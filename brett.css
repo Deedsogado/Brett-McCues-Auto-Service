@@ -1,0 +1,145 @@
+﻿
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body {
+  font-size: 1.1em;
+  font-family: Arial, Helvetica, Sans-seriff;
+  background-image:url('bluefield.jpg')
+}
+#container {
+  width: 930px;
+  border-width: 1px;
+  margin: 0 auto;
+}
+
+#header {
+  width: 95px;
+  margin: 0px -25px -25px 0px;
+  padding: 0px -25px -25px 0px;
+  height: 95px;
+  float: left;
+}
+
+#header img {
+	width: 100px;
+	height: 100px;
+}
+
+#header2 {
+  width: 825px;
+  height: 95px;
+  line-height: 95px;
+  margin: 0 0 10px 0;
+  float: right;
+  text-align:center;
+  background:gray url('bluefield2.jpg');
+}
+
+#header2 p {
+  text-decoration: underline overline;
+  color:gold;
+  background-color: navy;
+  font-size:xx-large;
+  font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  display: inline;
+  padding: 10px;
+}
+
+#sidebar {
+  width: 200px;
+  margin: 0 10px 10px 0;
+  padding: 10px;
+  float: left;
+  height: 440px;
+  background:gray url('bluefield2.jpg');
+}
+
+#main {
+  width: 680px;
+  margin: 0 0 10px 0;
+  padding: 10px;
+  float: right;
+  height: 440px;
+  background:gray url('bluefield2.jpg');
+}
+
+#footer {
+  width: 910px;
+  padding: 10px;
+  clear: both;
+  height: 75px;
+  text-align:center;
+  background:gray url('bluefield2.jpg');
+}
+
+img.cert {
+  margin: 5px 5px 5px 0;
+  vertical-align:top;
+}
+
+img.cert2 {
+    width: 100%;
+    margin: 5px 5px px px;
+    padding: 0 0 10px 0;
+	vertical-align:top;	
+	float: right;
+}
+
+.auto-style1 {
+	margin-left: 5;
+}
+
+.logo {
+	width: 62px;
+	height: 62px;
+	margin: 0 0 5px 0;
+	padding: 0;
+	border: 0;
+   vertical-align: bottom;
+}
+      
+li {
+   margin: 2px 2px 2px 24px;  
+}
+
+.button-link {
+    padding: 10px 15px;
+    margin: 0 0 10px 0;
+    background: #4479BA;
+    color: #FFF;
+    width: 84%;
+    display: inline-block;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    border: solid 1px #20538D;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+    -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
+    -webkit-transition-duration: 0.2s;
+    -moz-transition-duration: 0.2s;
+    transition-duration: 0.2s;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+
+.button-link:hover {
+    background: #356094;
+    border: solid 1px #2A4E77;
+    text-decoration: none;
+}
+
+.button-link:active {
+    -webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
+    -moz-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
+    box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
+    background: #2E5481;
+    border: solid 1px #203E5F;    
+}

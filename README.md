@@ -1,2 +1,5 @@
-# Brett-McCues-Auto-Service
-Created for IS 240 using Microsoft Expression Web 4.
+# [Brett-McCues-Auto-Service](http://deedsogado.github.io/Brett-McCues-Auto-Service)
+
+This project was created for a class I took in during my freshman year of college, IS 240, which was meant to bridge gaps of understanding between business demands and technological supply. Thus, the focus was not on web development, but on how technology can help businesses.  To this end, this website was made as a class exercise using Microsoft Expression Web 4. In doing this, I learned much about how the program works, but more importantly I learned that I prefer writing my own code. While it was faster to make a simple web page using Expression Web, it lacked the control I required for my layouts.  The WYSIWYG and click-and-drag style of creating websites set many elements with absolute locations, which did not work with the layout as whole, especially when the browser windows was resized or zoomed in and out. 
+
+Note that the links to facebook, youtube, twitter, and LinkedIn do not work because this web site was created for an imaginary company. 
